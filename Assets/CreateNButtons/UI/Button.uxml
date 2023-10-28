@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/CreateNButtons/UI/ButtonStyles.uss?fileID=7433441132597879392&amp;guid=b2246fc8d65d57b439e9549594214e54&amp;type=3#ButtonStyles" />
+    <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="It" />
+</ui:UXML>

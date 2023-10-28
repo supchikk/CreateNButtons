@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/CreateNButtons/UI/Form1Styles.uss?fileID=7433441132597879392&amp;guid=8e1c6276834b8ef4fa33b116907f0903&amp;type=3#Form1Styles" />
+    <ui:VisualElement name="ButtonColumn" class="buttonColumn">
+        <ui:VisualElement name="ButtonContainer" class="buttonContainer" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>
